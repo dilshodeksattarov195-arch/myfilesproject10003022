@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderurocess",
+        "uuid": 14257796,
+        "checksum": "vryu5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
